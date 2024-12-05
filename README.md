@@ -1,26 +1,35 @@
-# Image-to-Text Converter
+# Image to Text Converter  
+**Version 1.0**  
 
-A simple and user-friendly tool to extract text from images using OCR (Optical Character Recognition) technology.
+> Quickly extract text from images in formats like JPG, PNG, JPEG, and GIF. Just upload your image, click **Convert**, and get your text instantly!  
 
-## Features
-- Upload an image and extract text in seconds.
-- Uses advanced OCR technology powered by Tesseract.js.
-- Minimalistic and intuitive design.
+## Features  
+- **OCR Technology**: Advanced text recognition for high accuracy.  
+- **Supported Formats**: Works with JPG, PNG, JPEG, and GIF images.  
+- **Easy-to-Use**: Intuitive interface for quick conversion.  
+- **Copy Text**: Copy extracted text to the clipboard with a single click.  
+- **Download Text**: Save the output as a `.txt` file for future use.  
 
-## Demo
-Watch the demo video below to see how the tool works:
+## How It Works  
+1. Upload an image using the provided upload button.  
+2. Click the **Convert** button.  
+3. The tool extracts text and displays it below the image.  
+4. Copy the extracted text or download it as a `.txt` file.  
 
-https://vimeo.com/1036290413?share=copy#t=0
+## Demo Video  
+**See it in action!**  
+[Watch How It Works](https://vimeo.com/1036290413?share=copy#t=0) *(Replace with your video link)*  
 
+## Live Link  
+Try out the tool here:  
+[Live Demo](https://rsabbir.com/image-to-text-converter/) *(Replace with the hosted tool's link)*  
 
-## Live Tool
-https://rsabbir.com/image-to-text-converter/
+## What's Next?  
+This is just the beginning! Future updates will include:  
+- Multi-language text extraction.  
+- Integration with cloud storage.  
+- Batch processing for multiple images.  
 
-## How It Works
-1. Upload an image containing text.
-2. Click on the "Start OCR" button.
-3. The tool will extract the text and display it below.
+Stay tuned for more features and enhancements in upcoming versions!  
 
-## Technology Stack
-- HTML5, CSS3, JavaScript
-- Tesseract.js for OCR processing
+---
