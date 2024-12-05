@@ -39,3 +39,8 @@ Stay tuned for **upcoming updates** and **powerful new features** that will make
 The future of text extraction is here, and we're just getting started!
 
 ---
+
+
+## Copyright
+
+© [R.Sabbir] [2024]. All rights reserved.
