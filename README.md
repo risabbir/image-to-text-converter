@@ -10,11 +10,15 @@
 - **Copy Text**: Copy extracted text to the clipboard with a single click.  
 - **Download Text**: Save the output as a `.txt` file for future use.  
 
-## How It Works  
-1. Upload an image using the provided upload button.  
-2. Click the **Convert** button.  
-3. The tool extracts text and displays it below the image.  
-4. Copy the extracted text or download it as a `.txt` file.  
+## How It Works
+
+1. **Upload Your Image**: Simply drag and drop or select an image file (JPG, PNG, JPEG, GIF) using the **Upload Area**.
+2. **Click "Convert"**: Hit the **Convert** button to instantly start the text extraction process.
+3. **View Extracted Text**: In just moments, the tool will display the extracted text right below the image.
+4. **Copy or Download**: Easily **copy** the text to your clipboard or **download** it as a .txt file for future use.
+
+It’s that simple! Try it out and experience the power of instant text extraction.
+
 
 ## Demo Video  
 **See it in action!**  
