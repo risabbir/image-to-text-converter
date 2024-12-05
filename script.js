@@ -1,5 +1,3 @@
-// Ensure your existing code is placed above this point in your script.js
-
 // New OCR functionality starts here
 document.addEventListener('DOMContentLoaded', () => {
     const fileInput = document.getElementById('file-input');
