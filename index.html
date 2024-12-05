@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image to Text Converter</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@2.1.0/dist/tesseract.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Image to Text Converter</h1>
+        <p class="subheading">Quickly extract text from images in various formats such as JPG, PNG, JPEG, and GIF. Just upload your image, click Convert, and get your text!</p>
+        
+        <div class="upload-section">
+            <label for="file-input" class="file-upload-area">
+                <div class="drag-drop-text">
+                    <i class="fas fa-cloud-upload-alt fa-3x"></i>
+                    <p>Drag and drop images here</p>
+                    <small>Files supported: JPG | PNG | JPEG | GIF</small>
+                </div>
+                <input type="file" id="file-input" accept="image/*">
+            </label>
+        </div>
+        
+        <div class="actions">
+            <button class="convert-btn"><i class="fas fa-file-alt"></i> Convert</button>
+            <button class="start-over-btn"><i class="fas fa-redo"></i> Start Over</button>
+        </div>
+        
+        <div class="progress-section" style="display: none;">
+            <p>Processing...</p>
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+        </div>
+        
+        <div class="output-section" style="display: none;">
+            <div class="output-header">
+                <p>Extracted Text:</p>
+                <div class="icon-actions">
+                    <span class="icon copy-icon" title="Copy Text">
+                        <i class="fas fa-copy"></i>
+                        <span class="tooltip">Copy Text</span>
+                    </span>
+                    <span class="icon download-icon" title="Download Text">
+                        <i class="fas fa-download"></i>
+                        <span class="tooltip">Download Text</span>
+                    </span>
+                </div>
+            </div>
+            <textarea id="output-text" readonly></textarea>
+            <p class="privacy-note">Your privacy is protected! No data is transmitted or stored.</p>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
