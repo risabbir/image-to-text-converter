@@ -18,18 +18,20 @@
 
 ## Demo Video  
 **See it in action!**  
-[Watch How It Works](https://vimeo.com/1036290413?share=copy#t=0) *(Replace with your video link)*  
+[Watch How It Works](https://vimeo.com/1036290413?share=copy#t=0) 
 
 ## Live Link  
 Try out the tool here:  
-[Live Demo](https://rsabbir.com/image-to-text-converter/) *(Replace with the hosted tool's link)*  
+[Try the Live Tool](https://rsabbir.com/image-to-text-converter/)
 
 ## What's Next?  
-This is just the beginning! Future updates will include:  
-- Multi-language text extraction.  
-- Integration with cloud storage.  
-- Batch processing for multiple images.  
+This is just the **beginning**! We’re continuously improving, and exciting features are on the way:  
+- 🌍 **Multi-language Support**: Extract text in multiple languages with enhanced accuracy.  
+- ☁️ **Cloud Integration**: Seamlessly save and access your extracted text from the cloud.  
+- ⚡ **Batch Processing**: Upload and process multiple images at once for quicker results.  
 
-Stay tuned for more features and enhancements in upcoming versions!  
+Stay tuned for **upcoming updates** and **powerful new features** that will make this tool even more powerful!  
+
+The future of text extraction is here, and we're just getting started!
 
 ---
