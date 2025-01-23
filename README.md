@@ -1,5 +1,5 @@
 # Image to Text Converter  
-**Version 1.0**  
+**Version 1.0** 
 
 > Quickly extract text from images in formats like JPG, PNG, JPEG, and GIF. Just upload your image, click **Convert**, and get your text instantly!  
 
