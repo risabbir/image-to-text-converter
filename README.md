@@ -3,7 +3,7 @@
 
 > Quickly extract text from images in formats like JPG, PNG, JPEG, and GIF. Just upload your image, click **Convert**, and get your text instantly!  
 
-## Features  
+## Features
 - **OCR Technology**: Advanced text recognition for high accuracy.  
 - **Supported Formats**: Works with JPG, PNG, JPEG, and GIF images.  
 - **Easy-to-Use**: Intuitive interface for quick conversion.  
